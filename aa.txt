@@ -1,0 +1,87 @@
+<html>
+    <head>
+        <title><strong>Cakes and Brownies</strong></title>
+<style>
+body {
+       background-color: #C89D7C;
+}
+
+h3 {
+     color: white;
+}
+
+h2 {
+     color: white;
+}
+
+img {
+      border-radius: 10px  0px  10px  0px;
+}
+
+img.big { 
+          width:20%;
+} 
+ 
+img {
+      float: right;
+} 
+ 
+.fa {
+      padding: 20px;
+      font-size:30px;
+      width: 50px;
+      text-align: center;
+      margin :5px 2px;
+}
+
+.fa:hover {
+      capacity: 0.7;
+} 
+
+.fa-instagram {
+   background: #bb0000;
+   color: white;
+}
+ 
+.footer {
+          position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: darkbrown;
+   color: black;
+   text-align: center;
+   font-family: "Times New Roman", Times, serif;
+   font-size: 8px;
+}
+
+strong {
+         font-weight: bold;
+         font-color: white;
+}    
+
+</style>
+</head>
+<body>
+    
+    <h3 class="offers">CAKE MAKERS COLOMBO SRILANKA</h3>
+    <h1>Cakes and Brownies</h1>
+    <img src="image 03.jpg" style= "width=200px; height=300px;"/>
+    <h2 class="offers" >Same day Colombo delivery / next day Sri Lanka - order by 4pm</h2>
+    
+    <P>we are selling French style pastry, cupcakes, cake loafs. 7 inch cakes, cookies,
+macaroon, Brownies and drinks with different flavor hot chocolate, coffee, etc at <strong>Cakes
+and Brownies</strong>. Browse our collection and discover our same day Colombo and next day
+nationwide delivery.</P>
+    
+    
+</body>
+
+<footer>
+
+<p>
+<a href="© 2021. Cakes and Brownies Instagram Facebook Twitter" target="_blank">© 2021. Cakes and Brownies Instagram Facebook Twitter</a>
+<a href="#" class="fa fa-instagram">insta-logo</a>
+</p>
+
+</footer>
